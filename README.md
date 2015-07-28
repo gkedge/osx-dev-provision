@@ -1,6 +1,9 @@
 # osx-dev-provision
 
 ## Ansible provision
+
+### [How I Fully Automated OS X Provisioning With Ansible](http://il.luminat.us/blog/2014/04/19/how-i-fully-automated-os-x-with-ansible/)
+
 ### geerlingguy.homebrew
 ```
 - hosts: localhost
