@@ -13,6 +13,7 @@
   roles:
     - { role: geerlingguy.homebrew }
 ```
-### [geerlingguy / mac-dev-playbook](http://sweet.io/p/geerlingguy/mac-dev-playbook)
+### [Mac OS X VirtualBox VM Instructions @geerlingguy](https://github.com/geerlingguy/mac-osx-virtualbox-vm)
+### [@geerlingguy / mac-dev-playbook](http://sweet.io/p/geerlingguy/mac-dev-playbook)
 ### [ansible-playbooks](https://github.com/MWGriffin/ansible-playbooks)
 
